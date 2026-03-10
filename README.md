@@ -13,7 +13,7 @@ Tools 🔨:
 - Seaborn
 
 Analysis performed 🔎:
-- Sales by category
+- Sales by product category
 - Sales by gender
 - Sales by month
 - Age distribution
@@ -21,3 +21,4 @@ Analysis performed 🔎:
 
 Conclusions 📌: 
 
+- Sales by Product category
