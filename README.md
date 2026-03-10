@@ -22,3 +22,4 @@ Analysis performed 🔎:
 Conclusions 📌: 
 
 - Sales by Product category
+![Sales by Category](images\sale_by_category.png)
